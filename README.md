@@ -1,1 +1,1 @@
-# HTML-assignments
+# HTML/CSS-assignments
